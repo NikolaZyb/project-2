@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1610587923 source:c:\users\nicola\desktop\pliki na projekt\projekt\pytania.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Pytania.h"
+
+1610587892 c:\users\nicola\desktop\pliki na projekt\projekt\pytania.h
+	<iostream>
+
+1611046589 source:c:\users\nicola\desktop\pliki na projekt\projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<conio.h>
+	<cstdio>
+	"pytania.h"
+	"ksiazki.h"
+	<string>
+	"przeszkoda.h"
+	<vector>
+	<cstring>
+
+1610748315 source:c:\users\nicola\desktop\pliki na projekt\projekt\premieryksiazek.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	"premieryksiazek.h"
+	<stdlib.h>
+
+1610750898 c:\users\nicola\desktop\pliki na projekt\projekt\premieryksiazek.h
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+
+1610811839 source:c:\users\nicola\desktop\pliki na projekt\projekt\ksiazki.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	"ksiazki.h"
+	<stdlib.h>
+
+1610811839 c:\users\nicola\desktop\pliki na projekt\projekt\ksiazki.h
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+
+1610906008 source:c:\users\nicola\desktop\pliki na projekt\projekt\przeszkoda.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"przeszkoda.h"
+
+1611016904 c:\users\nicola\desktop\pliki na projekt\projekt\przeszkoda.h
+	<iostream>
+	<windows.h>
+
+1610811839 source:c:\users\nicola\downloads\nikola_¯ybul\projekt\ksiazki.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	"ksiazki.h"
+	<stdlib.h>
+
+1610811839 c:\users\nicola\downloads\nikola_¯ybul\projekt\ksiazki.h
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+
+1611046589 source:c:\users\nicola\downloads\nikola_¯ybul\projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<conio.h>
+	<cstdio>
+	"pytania.h"
+	"ksiazki.h"
+	<string>
+	"przeszkoda.h"
+	<vector>
+	<cstring>
+
+1610587892 c:\users\nicola\downloads\nikola_¯ybul\projekt\pytania.h
+	<iostream>
+
+1611016904 c:\users\nicola\downloads\nikola_¯ybul\projekt\przeszkoda.h
+	<iostream>
+	<windows.h>
+
+1610906008 source:c:\users\nicola\downloads\nikola_¯ybul\projekt\przeszkoda.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"przeszkoda.h"
+
+1610587923 source:c:\users\nicola\downloads\nikola_¯ybul\projekt\pytania.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Pytania.h"
+
+1610811839 source:c:\users\nicola\desktop\notatki\podstawy informatyki\nikola_¯ybul\projekt\ksiazki.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	"ksiazki.h"
+	<stdlib.h>
+
+1610811839 c:\users\nicola\desktop\notatki\podstawy informatyki\nikola_¯ybul\projekt\ksiazki.h
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+
+1611046589 source:c:\users\nicola\desktop\notatki\podstawy informatyki\nikola_¯ybul\projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<conio.h>
+	<cstdio>
+	"pytania.h"
+	"ksiazki.h"
+	<string>
+	"przeszkoda.h"
+	<vector>
+	<cstring>
+
+1610587892 c:\users\nicola\desktop\notatki\podstawy informatyki\nikola_¯ybul\projekt\pytania.h
+	<iostream>
+
+1611016904 c:\users\nicola\desktop\notatki\podstawy informatyki\nikola_¯ybul\projekt\przeszkoda.h
+	<iostream>
+	<windows.h>
+
+1610906008 source:c:\users\nicola\desktop\notatki\podstawy informatyki\nikola_¯ybul\projekt\przeszkoda.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"przeszkoda.h"
+
+1610587923 source:c:\users\nicola\desktop\notatki\podstawy informatyki\nikola_¯ybul\projekt\pytania.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Pytania.h"
+
+1610811839 source:c:\users\nicola\desktop\studia\semestr 1\podstawy informatyki\nikola_¯ybul\projekt\ksiazki.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	"ksiazki.h"
+	<stdlib.h>
+
+1610811839 c:\users\nicola\desktop\studia\semestr 1\podstawy informatyki\nikola_¯ybul\projekt\ksiazki.h
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+
+1611046589 source:c:\users\nicola\desktop\studia\semestr 1\podstawy informatyki\nikola_¯ybul\projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<conio.h>
+	<cstdio>
+	"pytania.h"
+	"ksiazki.h"
+	<string>
+	"przeszkoda.h"
+	<vector>
+	<cstring>
+
+1610587892 c:\users\nicola\desktop\studia\semestr 1\podstawy informatyki\nikola_¯ybul\projekt\pytania.h
+	<iostream>
+
+1611016904 c:\users\nicola\desktop\studia\semestr 1\podstawy informatyki\nikola_¯ybul\projekt\przeszkoda.h
+	<iostream>
+	<windows.h>
+
+1610906008 source:c:\users\nicola\desktop\studia\semestr 1\podstawy informatyki\nikola_¯ybul\projekt\przeszkoda.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"przeszkoda.h"
+
+1610587923 source:c:\users\nicola\desktop\studia\semestr 1\podstawy informatyki\nikola_¯ybul\projekt\pytania.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Pytania.h"
+
